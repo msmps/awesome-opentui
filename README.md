@@ -28,6 +28,7 @@
 
 - [critique](https://github.com/remorses/critique) - A terminal interface for reviewing Git changes.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
+- [cftop](https://github.com/NWBY/cftop) - A terminal interface for Cloudflare Workers.
 
 ## Libraries
 
