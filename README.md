@@ -29,6 +29,7 @@
 - [cftop](https://github.com/NWBY/cftop) - A terminal interface for Cloudflare Workers.
 - [critique](https://github.com/remorses/critique) - A terminal interface for reviewing Git changes.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
+- [anki-cli](https://github.com/aisflat439/anki-cli) - A terminal interface for anki style flash cards and an MCP server to wire it into opencode / claudecode / etc...
 
 ## Libraries
 
