@@ -17,6 +17,7 @@
 - [Official Resources](#official-resources)
 - [Developer Tools](#developer-tools)
 - [Libraries](#libraries)
+- [Miscellaneous](#miscellaneous)
 
 ## Official Resources
 
@@ -33,6 +34,10 @@
 ## Libraries
 
 - [opentui-spinner](https://github.com/msmps/opentui-spinner) - A spinner component for OpenTUI.
+
+## Miscellaneous
+
+- [opentui-doom](https://github.com/muhammedaksam/opentui-doom) - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 
 ## Contributing
 
