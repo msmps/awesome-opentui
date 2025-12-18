@@ -15,6 +15,7 @@
 ## Contents
 
 - [Official Resources](#official-resources)
+- [Starters & Examples](#starters--examples)
 - [Developer Tools](#developer-tools)
 - [Libraries](#libraries)
 - [Miscellaneous](#miscellaneous)
@@ -24,6 +25,10 @@
 - [OpenTUI](https://github.com/sst/opentui) - The main OpenTUI project.
 - [create-tui](https://github.com/msmps/create-tui) - The easiest way to get started with OpenTUI.
 - [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
+
+## Starters & Examples
+
+- [opentui-examples](https://github.com/msmps/opentui-examples) - A collection of example projects built with OpenTUI.
 
 ## Developer Tools
 
