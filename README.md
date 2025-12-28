@@ -42,6 +42,7 @@
 ## Libraries
 
 - [opentui-spinner](https://github.com/msmps/opentui-spinner) - A spinner component for OpenTUI.
+- [opentui-ui](https://github.com/msmps/opentui-ui) - UI component library for terminal applications built on @opentui/core.
 
 ## Miscellaneous
 
