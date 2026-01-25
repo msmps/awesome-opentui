@@ -14,7 +14,6 @@
 
 ## Contents
 
-- [Contents](#contents)
 - [Official Resources](#official-resources)
 - [Starters \& Examples](#starters--examples)
 - [Developer Tools](#developer-tools)
