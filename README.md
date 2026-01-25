@@ -19,7 +19,6 @@
 - [Developer Tools](#developer-tools)
 - [Libraries](#libraries)
 - [Miscellaneous](#miscellaneous)
-- [Contributing](#contributing)
 
 ## Official Resources
 
