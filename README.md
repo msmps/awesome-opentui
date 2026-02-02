@@ -54,7 +54,7 @@
 
 ## Testing & Automation
 
-- [pilotty](https://github.com/msmps/pilotty) - Terminal automation CLI for AI agents that manages PTY sessions with VT100 emulation and provides keyboard/mouse input for TUI applications.
+- [pilotty](https://github.com/msmps/pilotty) - Terminal equivalent of Vercel's agent-browser - CLI that enables AI agents to automate and control TUI applications.
 
 ## Contributing
 
