@@ -3,7 +3,7 @@
 <img alt="banner" src="https://github.com/msmps/awesome-opentui/raw/main/.github/banner.png"/>
 
 <div align="center">
-    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+    <a href="awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
 </div>
 
 <br />
@@ -15,10 +15,10 @@
 ## Contents
 
 - [Official Resources](#official-resources)
-- [Starters \& Examples](#starters--examples)
 - [Developer Tools](#developer-tools)
 - [Libraries](#libraries)
 - [Miscellaneous](#miscellaneous)
+- [Starters \& Examples](#starters--examples)
 - [Testing \& Automation](#testing--automation)
 
 ## Official Resources
@@ -26,10 +26,6 @@
 - [OpenTUI](https://github.com/sst/opentui) - The main OpenTUI project.
 - [create-tui](https://github.com/msmps/create-tui) - The easiest way to get started with OpenTUI.
 - [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
-
-## Starters & Examples
-
-- [opentui-examples](https://github.com/msmps/opentui-examples) - A collection of example projects built with OpenTUI.
 
 ## Developer Tools
 
@@ -51,6 +47,10 @@
 
 - [opentui-doom](https://github.com/muhammedaksam/opentui-doom) - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 - [present-drop](https://github.com/msmps/present-drop) - A festive terminal game - control Santa to drop presents and destroy evil snowmen.
+
+## Starters & Examples
+
+- [opentui-examples](https://github.com/msmps/opentui-examples) - A collection of example projects built with OpenTUI.
 
 ## Testing & Automation
 
