@@ -54,7 +54,7 @@
 
 ## Testing & Automation
 
-- [Pilotty](https://github.com/msmps/pilotty) - 🤖 Supercharge your terminal with AI-powered automation - control and test TUI apps programmatically with zero setup.
+- [pilotty](https://github.com/msmps/pilotty) - Terminal automation CLI for AI agents that manages PTY sessions with VT100 emulation and provides keyboard/mouse input for TUI applications.
 
 ## Contributing
 
