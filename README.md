@@ -18,6 +18,7 @@
 - [Starters \& Examples](#starters--examples)
 - [Developer Tools](#developer-tools)
 - [Libraries](#libraries)
+- [Testing \& Automation](#testing--automation)
 - [Miscellaneous](#miscellaneous)
 
 ## Official Resources
@@ -45,6 +46,10 @@
 - [opentui-spinner](https://github.com/msmps/opentui-spinner) - A spinner component for OpenTUI.
 - [opentui-skill](https://github.com/msmps/opentui-skill) - OpenTUI reference docs for OpenCode covering Core, React, Solid.
 - [opentui-ui](https://github.com/msmps/opentui-ui) - UI component library for terminal applications built on @opentui/core.
+
+## Testing & Automation
+
+- [Pilotty](https://github.com/msmps/pilotty) - Terminal automation CLI tool that enables AI agents to programmatically control TUI applications.
 
 ## Miscellaneous
 
