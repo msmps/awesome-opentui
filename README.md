@@ -18,8 +18,8 @@
 - [Starters \& Examples](#starters--examples)
 - [Developer Tools](#developer-tools)
 - [Libraries](#libraries)
-- [Testing \& Automation](#testing--automation)
 - [Miscellaneous](#miscellaneous)
+- [Testing \& Automation](#testing--automation)
 
 ## Official Resources
 
@@ -47,14 +47,14 @@
 - [opentui-skill](https://github.com/msmps/opentui-skill) - OpenTUI reference docs for OpenCode covering Core, React, Solid.
 - [opentui-ui](https://github.com/msmps/opentui-ui) - UI component library for terminal applications built on @opentui/core.
 
-## Testing & Automation
-
-- [Pilotty](https://github.com/msmps/pilotty) - Terminal automation CLI tool that enables AI agents to programmatically control TUI applications.
-
 ## Miscellaneous
 
 - [opentui-doom](https://github.com/muhammedaksam/opentui-doom) - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 - [present-drop](https://github.com/msmps/present-drop) - A festive terminal game - control Santa to drop presents and destroy evil snowmen.
+
+## Testing & Automation
+
+- [Pilotty](https://github.com/msmps/pilotty) - 🤖 Supercharge your terminal with AI-powered automation - control and test TUI apps programmatically with zero setup.
 
 ## Contributing
 
