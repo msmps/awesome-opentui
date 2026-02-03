@@ -3,7 +3,7 @@
 <img alt="banner" src="https://github.com/msmps/awesome-opentui/raw/main/.github/banner.png"/>
 
 <div align="center">
-    <a href="awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
 </div>
 
 <br />
