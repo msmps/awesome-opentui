@@ -37,6 +37,7 @@
 - [tokscale](https://github.com/junhoyeo/tokscale) - A terminal interface for tracking token usage.
 - [waha-tui](https://github.com/muhammedaksam/waha-tui) - A terminal user interface for WAHA (WhatsApp HTTP API).
 - [restman](https://github.com/cadamsdev/restman) - A terminal interface for testing REST APIs.
+- [t-req](https://github.com/tensorix-labs/t-req) - A terminal interface for browsing and executing .http file workspaces. 
 
 ## Libraries
 
