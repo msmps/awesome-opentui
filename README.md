@@ -15,10 +15,11 @@ x<!--lint disable awesome-heading-->
 ## Contents
 
 - [Official Resources](#official-resources)
-- [Starters \& Examples](#starters--examples)
 - [Developer Tools](#developer-tools)
 - [Libraries](#libraries)
 - [Miscellaneous](#miscellaneous)
+- [Starters \& Examples](#starters--examples)
+- [Testing \& Automation](#testing--automation)
 
 ## Official Resources
 
@@ -26,15 +27,12 @@ x<!--lint disable awesome-heading-->
 - [create-tui](https://github.com/msmps/create-tui) - The easiest way to get started with OpenTUI.
 - [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
 
-## Starters & Examples
-
-- [opentui-examples](https://github.com/msmps/opentui-examples) - A collection of example projects built with OpenTUI.
-
 ## Developer Tools
 
 - [cftop](https://github.com/NWBY/cftop) - A terminal interface for Cloudflare Workers.
 - [critique](https://github.com/remorses/critique) - A terminal interface for reviewing Git changes.
 - [easiarr](https://github.com/muhammedaksam/easiarr) - A terminal interface for managing Arr applications.
+- [opendocker](https://github.com/flat6solutions/opendocker) - A terminal interface for managing Docker containers.
 - [openspot-tui](https://github.com/iiviie/openspot-tui) - A terminal interface for Spotify with MPRIS support.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
 - [tokscale](https://github.com/junhoyeo/tokscale) - A terminal interface for tracking token usage.
@@ -51,6 +49,14 @@ x<!--lint disable awesome-heading-->
 
 - [opentui-doom](https://github.com/muhammedaksam/opentui-doom) - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 - [present-drop](https://github.com/msmps/present-drop) - A festive terminal game - control Santa to drop presents and destroy evil snowmen.
+
+## Starters & Examples
+
+- [opentui-examples](https://github.com/msmps/opentui-examples) - A collection of example projects built with OpenTUI.
+
+## Testing & Automation
+
+- [pilotty](https://github.com/msmps/pilotty) - Terminal equivalent of Vercel's agent-browser - CLI that enables AI agents to automate and control TUI applications.
 
 ## Contributing
 
