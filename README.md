@@ -47,6 +47,7 @@
 ## Miscellaneous
 
 - [opentui-doom](https://github.com/muhammedaksam/opentui-doom) - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
+- [periodic-tui](https://github.com/cowboycodr/periodic) - An interactive periodic table for the terminal with keyboard/mouse navigation and theme-aware colors.
 - [present-drop](https://github.com/msmps/present-drop) - A festive terminal game - control Santa to drop presents and destroy evil snowmen.
 
 ## Starters & Examples
