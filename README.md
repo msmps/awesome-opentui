@@ -32,6 +32,7 @@
 - [cftop](https://github.com/NWBY/cftop) - A terminal interface for Cloudflare Workers.
 - [critique](https://github.com/remorses/critique) - A terminal interface for reviewing Git changes.
 - [easiarr](https://github.com/muhammedaksam/easiarr) - A terminal interface for managing Arr applications.
+- [hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders.
 - [opendocker](https://github.com/flat6solutions/opendocker) - A terminal interface for managing Docker containers.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
 - [tokscale](https://github.com/junhoyeo/tokscale) - A terminal interface for tracking token usage.
