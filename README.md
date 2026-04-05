@@ -48,6 +48,7 @@
 
 ## Miscellaneous
 
+- [gloomberb](https://github.com/vincelwt/gloomberb) - Financial terminal using OpenTUI for the layout.
 - [opentui-doom](https://github.com/muhammedaksam/opentui-doom) - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 - [present-drop](https://github.com/msmps/present-drop) - A festive terminal game - control Santa to drop presents and destroy evil snowmen.
 
