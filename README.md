@@ -34,6 +34,7 @@
 - [easiarr](https://github.com/muhammedaksam/easiarr) - A terminal interface for managing Arr applications.
 - [ghui](https://github.com/kitlangton/ghui) - A terminal UI for managing open GitHub pull requests across repositories.
 - [hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders.
+- [ntrp](https://github.com/esceptico/ntrp) - A personal AI assistant with an OpenTUI terminal interface, persistent memory, and connected tools.
 - [opendocker](https://github.com/flat6solutions/opendocker) - A terminal interface for managing Docker containers.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
 - [tokscale](https://github.com/junhoyeo/tokscale) - A terminal interface for tracking token usage.
