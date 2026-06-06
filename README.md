@@ -37,6 +37,7 @@
 - [opendocker](https://github.com/flat6solutions/opendocker) - A terminal interface for managing Docker containers.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
 - [tokscale](https://github.com/junhoyeo/tokscale) - A terminal interface for tracking token usage.
+- [tuiboard](https://github.com/NazzarenoGiannelli/tuiboard) - A terminal kanban board over plain markdown files, with a planner, a calendar-aware agenda, and a live Claude Code session view.
 - [waha-tui](https://github.com/muhammedaksam/waha-tui) - A terminal user interface for WAHA (WhatsApp HTTP API).
 - [restman](https://github.com/cadamsdev/restman) - A terminal interface for testing REST APIs.
 - [t-req](https://github.com/tensorix-labs/t-req) - A terminal interface for browsing and executing .http file workspaces. 
