@@ -49,6 +49,7 @@
 - [opentui-spinner](https://github.com/msmps/opentui-spinner) - A spinner component for OpenTUI.
 - [opentui-skill](https://github.com/msmps/opentui-skill) - OpenTUI reference docs for OpenCode covering Core, React, Solid.
 - [opentui-ui](https://github.com/msmps/opentui-ui) - UI component library for terminal applications built on @opentui/core.
+- [termcn](https://github.com/shadcn-labs/termcn) - UI component library for terminal applications built on @opentui/react.
 
 ## Miscellaneous
 
