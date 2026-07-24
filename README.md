@@ -42,6 +42,7 @@
 - [restman](https://github.com/cadamsdev/restman) - A terminal interface for testing REST APIs.
 - [t-req](https://github.com/tensorix-labs/t-req) - A terminal interface for browsing and executing .http file workspaces. 
 - [termdraw](https://github.com/benvinegar/termdraw) - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
+- [arbiter](https://github.com/tylerreckart/arbiter) - A multi-agent runtime, TUI, CLI, and API in a single native binary.
 
 ## Libraries
 
