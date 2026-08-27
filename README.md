@@ -14,18 +14,33 @@
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Developer Tools](#developer-tools)
-- [Libraries](#libraries)
-- [Miscellaneous](#miscellaneous)
+- [Official Projects](#official-projects)
 - [Starters \& Examples](#starters--examples)
+- [Libraries](#libraries)
 - [Testing \& Automation](#testing--automation)
+- [Developer Tools](#developer-tools)
+- [Applications \& Games](#applications--games)
 
-## Official Resources
+## Official Projects
 
-- [OpenTUI](https://github.com/sst/opentui) - The main OpenTUI project.
-- [create-tui](https://github.com/msmps/create-tui) - The easiest way to get started with OpenTUI.
+- [create-tui](https://github.com/msmps/create-tui) - A project generator for OpenTUI applications.
 - [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
+- [OpenTUI](https://github.com/anomalyco/opentui) - The main OpenTUI project.
+- [opentui-skill](https://github.com/msmps/opentui-skill) - OpenTUI reference docs for coding agents covering Core, React, and Solid.
+
+## Starters & Examples
+
+- [opentui-examples](https://github.com/msmps/opentui-examples) - A collection of example projects built with OpenTUI.
+
+## Libraries
+
+- [anscribe](https://github.com/msmps/anscribe) - Capture live UI from an OpenTUI app and hand it to an agent via the clipboard or MCP.
+- [opentui-spinner](https://github.com/msmps/opentui-spinner) - A spinner component for OpenTUI.
+- [tuiparts.sh](https://github.com/tuiparts/tuiparts) - Primitive and recipe ecosystem for OpenTUI applications.
+
+## Testing & Automation
+
+- [pilotty](https://github.com/msmps/pilotty) - Terminal equivalent of Vercel's agent-browser - CLI that enables AI agents to automate and control TUI applications.
 
 ## Developer Tools
 
@@ -36,32 +51,16 @@
 - [hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders.
 - [opendocker](https://github.com/flat6solutions/opendocker) - A terminal interface for managing Docker containers.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
+- [termdraw](https://github.com/benvinegar/termdraw) - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
 - [tokscale](https://github.com/junhoyeo/tokscale) - A terminal interface for tracking token usage.
+- [t-req](https://github.com/tensorix-labs/t-req) - A terminal interface for browsing and executing .http file workspaces.
 - [tuiboard](https://github.com/NazzarenoGiannelli/tuiboard) - A terminal kanban board over plain markdown files, with a planner, a calendar-aware agenda, and a live Claude Code session view.
 - [waha-tui](https://github.com/muhammedaksam/waha-tui) - A terminal user interface for WAHA (WhatsApp HTTP API).
-- [t-req](https://github.com/tensorix-labs/t-req) - A terminal interface for browsing and executing .http file workspaces. 
-- [termdraw](https://github.com/benvinegar/termdraw) - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
 
-## Libraries
+## Applications & Games
 
-- [anscribe](https://github.com/msmps/anscribe) - Capture live UI from an OpenTUI app and hand it to an agent via the clipboard or MCP.
-- [opentui-spinner](https://github.com/msmps/opentui-spinner) - A spinner component for OpenTUI.
-- [opentui-skill](https://github.com/msmps/opentui-skill) - OpenTUI reference docs for OpenCode covering Core, React, Solid.
-- [opentui-ui](https://github.com/msmps/opentui-ui) - UI component library for terminal applications built on @opentui/core.
-
-## Miscellaneous
-
-- [gloomberb](https://github.com/vincelwt/gloomberb) - Financial terminal using OpenTUI for the layout.
+- [gloomberb](https://github.com/gloom-sh/gloomberb) - Financial terminal using OpenTUI for the layout.
 - [opentui-doom](https://github.com/muhammedaksam/opentui-doom) - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
-- [present-drop](https://github.com/msmps/present-drop) - A festive terminal game - control Santa to drop presents and destroy evil snowmen.
-
-## Starters & Examples
-
-- [opentui-examples](https://github.com/msmps/opentui-examples) - A collection of example projects built with OpenTUI.
-
-## Testing & Automation
-
-- [pilotty](https://github.com/msmps/pilotty) - Terminal equivalent of Vercel's agent-browser - CLI that enables AI agents to automate and control TUI applications.
 
 ## Contributing
 
