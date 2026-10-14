@@ -63,6 +63,7 @@
 - [gloomberb](https://github.com/gloom-sh/gloomberb) - Financial terminal using OpenTUI for the layout.
 - [opentui-doom](https://github.com/muhammedaksam/opentui-doom) - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 - [tfm-tui](https://github.com/clarkarch/tfm-tui) - A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.
+- [hntui](https://github.com/ahmd-sh/hntui) - A terminal UI for browsing YC Hacker News.
 
 ## Contributing
 
