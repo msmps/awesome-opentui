@@ -64,6 +64,7 @@
 - [opentui-doom](https://github.com/muhammedaksam/opentui-doom) - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
 - [tfm-tui](https://github.com/clarkarch/tfm-tui) - A mouse-first terminal file manager with grid views, drag and drop, image thumbnails, and desktop integration.
 - [hntui](https://github.com/ahmd-sh/hntui) - A terminal UI for browsing YC Hacker News.
+- [brothy](https://github.com/jackMort/brothy) - A terminal Markdown reader for folders of notes and Obsidian vaults, with outline, live reload, note graph and inline pictures.
 
 ## Contributing
 
