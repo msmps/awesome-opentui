@@ -1,4 +1,4 @@
-<!--lint disable awesome-heading-->
+x<!--lint disable awesome-heading-->
 
 <img alt="banner" src="https://github.com/msmps/awesome-opentui/raw/main/.github/banner.png"/>
 
@@ -51,6 +51,7 @@
 - [hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders.
 - [Noodle](https://github.com/wilfredinni/noodle) - A terminal REST client with file-based collections, scripting, and tests.
 - [opendocker](https://github.com/flat6solutions/opendocker) - A terminal interface for managing Docker containers.
+- [openspot-tui](https://github.com/iiviie/openspot-tui) - A terminal interface for Spotify with MPRIS support.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
 - [termdraw](https://github.com/benvinegar/termdraw) - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
 - [tokscale](https://github.com/junhoyeo/tokscale) - A terminal interface for tracking token usage.
