@@ -50,6 +50,7 @@
 - [ghui](https://github.com/kitlangton/ghui) - A terminal UI for managing open GitHub pull requests across repositories.
 - [hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders.
 - [Noodle](https://github.com/wilfredinni/noodle) - A terminal REST client with file-based collections, scripting, and tests.
+- [OMK](https://github.com/dmae97/omk) - A multi-agent coding CLI for the terminal that switches models mid-session, with a status panel rendered by OpenTUI.
 - [opendocker](https://github.com/flat6solutions/opendocker) - A terminal interface for managing Docker containers.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
 - [termdraw](https://github.com/benvinegar/termdraw) - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
